@@ -20,6 +20,3 @@ We do not:
 We do not share or sell any data to anyone. All your data stays private on your own device.
 ## 4. Permissions
 The app requests access to specific folders only to let you open EPUB files. We do not access any other files or folders.
-## 5. Contact
-If you have questions or concerns about this Privacy Policy, please contact:
-Email: dylanpickard@outlook.com
